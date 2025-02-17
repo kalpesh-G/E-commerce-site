@@ -3,13 +3,13 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 This project implements a basic e-commerce application using Flask and SQLAlchemy. It includes features for user registration, login, product browsing, adding items to a cart and wishlist, checkout, order placement, and admin functionalities.
-
-#**My Contribution:**
-Creating <strong>base.html</strong> containing the header and footer that is common for all pages.
-Designing and working of </strong> individual item page<strong> showing item details and related items.
-<strong>Wishlist</strong> functionality's working as well as wishlist page.
-<strong>Add to Cart</strong> functionality 's working as well as cart page.
-<strong>Order page </strong> Backend and frontend.
+<br>
+#**My Contribution:**<br>
+Creating <strong>base.html</strong> containing the header and footer that is common for all pages.<br>
+Designing and working of </strong> individual item page<strong> showing item details and related items.<br>
+<strong>Wishlist</strong> functionality's working as well as wishlist page.<br>
+<strong>Add to Cart</strong> functionality 's working as well as cart page.<br>
+<strong>Order page </strong> Backend and frontend.<br>
 ## Features
 
 ### User Features:
